@@ -68,9 +68,6 @@ Please check LICENSE in repository for licensing info.
 
 ## Badges
 
-![Galaxy Toolshed (5/16/2023)](https://img.shields.io/galaxytoolshed/created-date/prework-study-guide/darling.dc2?style=plastic)
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
 *Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.*
 
 ## Features
